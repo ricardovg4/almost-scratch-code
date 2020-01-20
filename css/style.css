@@ -67,7 +67,7 @@ a, a:visited{
     width: auto;
     height: auto;
     background-color: rgba(46, 157, 255, .5);
-    background-image: linear-gradient(180deg, rgba(46, 157, 255, .5), rgba(46, 157, 255, .22)), url("/images/bg.jpg");
+    background-image: linear-gradient(180deg, rgba(46, 157, 255, .5), rgba(46, 157, 255, .22)), url("../images/bg.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
